@@ -1,1 +1,1 @@
-# Module_1_Challenge
+# Loan_Analyzer_WK1_Module_Challenge
